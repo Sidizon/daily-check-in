@@ -179,5 +179,5 @@ ReactDOM.render(<Quote />, document.getElementById('root'))
 
 
 
-export default App
+export default Quote
 export { Quote };
